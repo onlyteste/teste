@@ -1,3 +1,2 @@
 Primeiro
 Segundo
-Terceiro
